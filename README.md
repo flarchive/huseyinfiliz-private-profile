@@ -2,15 +2,13 @@
 
 > **Read-only archive of released versions of huseyinfiliz/private-profile.** Not for installation: use [Packagist](https://packagist.org/packages/huseyinfiliz/private-profile) or the [upstream repository](https://github.com/huseyinfiliz/private-profile).
 
-**3** versions archived · Latest: [`v2.0`](https://github.com/flarchive/huseyinfiliz-private-profile/tree/archive/v2.0) · License: `MIT` · Flarum: `^2.0.0`
+**0** versions archived · Latest: [`v2.1`](https://github.com/flarchive/huseyinfiliz-private-profile/tree/archive/v2.1) · License: `MIT` · Flarum: `^2.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| `v1.0` | 2025-02-05 | `^1.2.0` | [Browse](https://github.com/flarchive/huseyinfiliz-private-profile/tree/archive/v1.0) |
-| `v1.1` | 2025-02-07 | `^1.2.0` | [Browse](https://github.com/flarchive/huseyinfiliz-private-profile/tree/archive/v1.1) |
-| `v2.0` | 2026-10-29 | `^2.0.0` | [Browse](https://github.com/flarchive/huseyinfiliz-private-profile/tree/archive/v2.0) |
+| — | — | — | — |
 
 Catalog entry: [packages/huseyinfiliz-private-profile.json](https://github.com/flarchive/archive-index/blob/main/packages/huseyinfiliz-private-profile.json)
 
